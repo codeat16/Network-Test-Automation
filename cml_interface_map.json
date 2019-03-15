@@ -1,0 +1,172 @@
+{
+	"r1": {
+		"TenGigE0/0/0/1" : "GigabitEthernet0/0/0/6",
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/1/0/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/5",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/1",		
+		"GigabitEthernet0/1/1/2" : "GigabitEthernet0/0/0/4"
+	},
+	"r2": {
+		"TenGigE0/0/0/1" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/5",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0",
+
+		"TenGigE0/1/0/1" : "GigabitEthernet9/9/9/9"			
+	},
+	"r3": {
+		"TenGigE0/0/0/1" : "GigabitEthernet0/0/0/6",
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/1/0/1" : "GigabitEthernet0/0/0/7",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/8",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/5",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0",		
+		"GigabitEthernet0/1/1/0" : "GigabitEthernet0/0/0/3",
+		"GigabitEthernet0/0/1/5" : "GigabitEthernet0/0/0/4"		
+	},
+	"r4": {
+		"TenGigE0/0/0/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/1/0/1" : "GigabitEthernet0/0/0/5",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/6",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/1",		
+		"GigabitEthernet0/1/1/0" : "GigabitEthernet0/0/0/4"
+	},	
+	"r5": {
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0",		
+		"GigabitEthernet0/0/1/0" : "GigabitEthernet0/0/0/2",		
+		"GigabitEthernet0/1/1/0" : "GigabitEthernet0/0/0/1",
+		
+		"TenGigE0/0/0/2" : "GigabitEthernet9/9/9/9"	
+	},		
+	"r6": {
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/5",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0",		
+		"GigabitEthernet0/0/1/0" : "GigabitEthernet0/0/0/3",	
+		"GigabitEthernet0/0/1/1" : "GigabitEthernet0/0/0/2",		
+		"GigabitEthernet0/1/1/0" : "GigabitEthernet0/0/0/1",
+		
+		"TenGigE0/0/0/2" : "GigabitEthernet9/9/9/9"			
+	},
+	"r7": {
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/1",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0",		
+		"GigabitEthernet0/0/1/0" : "GigabitEthernet0/0/0/3",
+		
+		"TenGigE0/0/1/0" : "GigabitEthernet9/9/9/9"			
+	},		
+	"r8": {
+		"TenGigE0/0/0/3" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/1/0/3" : "GigabitEthernet0/0/0/1",		
+		"TenGigE0/1/0/2" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/0/0" : "GigabitEthernet0/0/0/0"		
+	},		
+	"r9": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/2",
+
+		"GigabitEthernet0/0/0/0" : "GigabitEthernet9/9/9/9"
+	},		
+	"r10": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/0/1/1" : "GigabitEthernet0/0/0/4"
+	},	
+	"r11": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/4",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/2"		
+	},		
+	"r12": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/2",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/6",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/1/1" : "GigabitEthernet0/0/0/5"			
+	},	
+	"r13": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/1"		
+	},	
+	"r14": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/5",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/7",
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/1/1" : "GigabitEthernet0/0/0/6",
+		"GigabitEthernet0/0/0/5" : "GigabitEthernet0/0/0/3",
+		"GigabitEthernet0/0/0/10" : "GigabitEthernet0/0/0/1",
+		
+		"GigabitEthernet0/0/0/0" : "GigabitEthernet9/9/9/9",
+		"GigabitEthernet0/0/0/12" : "GigabitEthernet9/9/9/9"			
+	},
+	"r15": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/2",		
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/1",
+		
+		"GigabitEthernet0/0/0/0" : "GigabitEthernet9/9/9/9"		
+	},	
+	"r16": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/2",		
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/0/1/1" : "GigabitEthernet0/0/0/4"		
+	},
+	"r17": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/3",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/4",		
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/2",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/6",
+		"TenGigE0/0/1/2" : "GigabitEthernet0/0/0/5",		
+		"GigabitEthernet0/0/0/10" : "GigabitEthernet0/0/0/1"		
+	},	
+	"r18": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/4",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/3",		
+		"TenGigE0/0/2/0" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/2",		
+		"TenGigE0/0/1/0" : "GigabitEthernet0/0/0/6",
+		"GigabitEthernet0/0/0/10" : "GigabitEthernet0/0/0/1",
+		"GigabitEthernet0/0/0/0" : "GigabitEthernet0/0/0/5"		
+	},	
+	"r19": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/0",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/4",		
+		"GigabitEthernet0/0/0/2" : "GigabitEthernet0/0/0/2",
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/3",
+		"GigabitEthernet0/0/0/10" : "GigabitEthernet0/0/0/1",
+		
+		"GigabitEthernet0/0/0/12" : "GigabitEthernet9/9/9/9"		
+	},	
+	"r20": {
+		"TenGigE0/0/2/1" : "GigabitEthernet0/0/0/1",
+		"TenGigE0/0/2/2" : "GigabitEthernet0/0/0/5",		
+		"GigabitEthernet0/0/0/2" : "GigabitEthernet0/0/0/2",
+		"GigabitEthernet0/0/0/0" : "GigabitEthernet0/0/0/4",		
+		"TenGigE0/0/2/3" : "GigabitEthernet0/0/0/3",
+		"GigabitEthernet0/0/0/10" : "GigabitEthernet0/0/0/0"		
+	}	
+}
