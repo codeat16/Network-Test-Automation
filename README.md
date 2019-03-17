@@ -4,7 +4,7 @@ This is a module for automated testing of network changes. It is for demo purpos
 
 ## Environment
 
-The setup environment is for a very specific network and endpoints consisnt of above 80 simulated devices. The type of simulated devices include IOS-XR, IOS, and Ubuntu devices simulated using Cisco Modeling Lab. Cisco Model Lab and the network device OS are licensed software and are not part of the provision.
+The setup environment is for a very specific network and endpoints consisnt of above 80 simulated devices. The type of simulated devices include IOS-XR&trade;, IOS&trade;, and Ubuntu devices simulated using Cisco Modeling Lab&trade;. Cisco Model Lab&trade; and the network device OS such as IOS-XR&trade;, IOS&trade; are licensed software by Cisco Systems, Inc. and are not part of the provision.
 
 ## Methodology
 
